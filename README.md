@@ -4,7 +4,7 @@
 可穿戴技术的发展进程：
 可穿戴式设备与可穿戴式计算机的定义不同，最早的可穿戴设备可以追溯到17世纪中国设计师制造的算盘戒指，以及英国女王伊丽莎白一世在16世纪所佩戴的“戒指手表”。
 
-<img src="./e7cd7b899e510fb301e19436db33c895d0430c92.webp" style="max-width:30%">
+<img src="./Ring_abacus.webp" style="max-width:30%">
 <img src="./GruenAdvert1926.jpg" style="max-width:30%">
 
 而在19世纪60年代数学家Edward O. Thorp 和 Claude Shannon为了赢得赌博游戏“俄罗斯转盘”，制造了一些计算机化的计时设备，这些设备被隐藏在鞋子和一盒香烟当中。这也是最早的可穿戴计算机化设备
@@ -16,6 +16,6 @@
 <img src="./Hewlett_Packard_Digital_Watch_Modell_1_1977.jpg" style="max-width:30%">
 
 20世纪80年代，加拿大工程师Steve Mann设计并制造了一款基于6502的背包式可穿戴多媒体计算机，具有文本、图形和多媒体功能以及视频功能（相机和其他摄影系统）。Mann后来成为了可穿戴设备领域的早期活跃研究人员，尤其以1994年创建的可穿戴无线网络摄像头而文明，并开启了生活视频日志的先河。在1998年Maan发明并制造了世界上第一块智能手表，这块手表曾出现在2000年的Linux Journal的封面上，并在ISSCC 2000进行了演示
-<img src="./steve5.jpg" style="max-width:100%">
+<img src="./steve.jpg" style="max-width:100%">
 
 <img src="./cover75.jpg" style="max-width:20%">
